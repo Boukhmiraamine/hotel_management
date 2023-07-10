@@ -1,0 +1,63 @@
+.list-entete{
+	width: 70%;
+	margin: auto;
+	margin-top: 20px;
+}
+.login{
+	width: 40%;
+	margin: auto;
+	margin-top: 40px;
+}
+.card-header{
+    background-color: rgba(241, 190, 48, 0.979);
+    font-size: 25px;
+}
+label{
+    font-size: 22px;
+}
+
+.supp{
+	font-size: 2em;
+	color:red;
+}
+
+.update{
+	font-size: 2em;
+	color:orange;
+}
+.caterpilar{
+	margin-top: -30px;
+	height: auto;
+	padding: 10px;
+}
+.thead{
+	background-color: lightgray;
+}
+.list{
+	font-size: 23px;
+	margin-left: 20px;
+}
+.fas{
+	font-size: 18px;
+}
+/*css de la partie groupe*/
+.headgroupe{
+    background-color: lightgray;
+}
+.listgroupe{
+	font-size: 23px;
+	margin-left: 20px;
+	margin-top: -20px;
+}
+.catgr{
+	width: 300px;
+}
+.search{
+	margin-top: 10px;
+ }
+.searchvehicule{
+	margin-left: 10px;
+}
+.searchgroupe{
+	margin-left: 20px;
+}

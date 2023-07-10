@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Macondo&family=Varela+Round&display=swap');
+body{
+    margin: 0;
+}
+section {
+	display: flex;
+	place-items: center;
+    width: 60%;
+    margin: 10px auto  ;
+    background-color: rgb(212, 210, 207);
+    padding: 5px 5px;
+    border-radius: 5px;
+   
+}
+section div {
+    width: 50%;
+}
+section div h1{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Macondo', cursive;
+    font-family: 'Varela Round', sans-serif;
+}
+section p {
+    width: 50%;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Macondo', cursive;
+    font-family: 'Varela Round', sans-serif;
+}

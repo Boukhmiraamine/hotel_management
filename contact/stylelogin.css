@@ -1,0 +1,19 @@
+.login{
+	width: 50%;
+	margin: auto;
+	margin-top: 40px;
+}
+.card-header{
+    background-color: rgba(241, 190, 48, 0.979);
+    font-size: 25px;
+}
+.login-nom{
+  width: 40%;
+  margin: auto;
+  margin-top: 40px;
+} 
+label{
+  font-size: 20px;
+}
+
+
